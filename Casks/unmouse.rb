@@ -13,7 +13,7 @@ cask "unmouse" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :golden_gate"
+  depends_on macos: :golden_gate
 
   app "Unmouse.app"
 
