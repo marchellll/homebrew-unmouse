@@ -1,6 +1,7 @@
 # Homebrew tap for Unmouse
 
 ```sh
+brew trust marchellll/unmouse
 brew install --cask marchellll/unmouse/unmouse
 ```
 
