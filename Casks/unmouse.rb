@@ -1,8 +1,8 @@
 cask "unmouse" do
-  version "0.1.0"
-  sha256 "3fc6f85110f9925e62511c9df9f96e50ad7cfdfb20526b8aa9bb281f74759bdc"
+  version "0.1.1"
+  sha256 "82686e0f4141e3e5516545ce11d37e95f3ad0b940b0b3ac610366e72b863b01f"
 
-  url "https://github.com/marchellll/unmouse/releases/download/v#{version}/Unmouse-#{version}.zip"
+  url "https://github.com/marchellll/unmouse/releases/download/v#{version}/Unmouse-#{version}.dmg"
   name "Unmouse"
   desc "Menu-bar app that drives the pointer from the keyboard"
   homepage "https://github.com/marchellll/unmouse"
